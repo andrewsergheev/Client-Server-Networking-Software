@@ -1,0 +1,30 @@
+G:\UniYear2\Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\UniYear2\Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\UniYear2\Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+G:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+H:\UniYear2\Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+H:\UniYear2\Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+H:\UniYear2\Networking\ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+H:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+H:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+H:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+H:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.serverForm.resources
+G:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.cache
+G:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.Properties.Resources.resources
+H:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.Properties.Resources.resources
+H:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.serverForm.resources
+H:\UniYear2\Networking\ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\obj\Debug\locationserver.Properties.Resources.resources
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\obj\Debug\locationserver.serverForm.resources
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\andre\OneDrive\Рабочий стол\ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
