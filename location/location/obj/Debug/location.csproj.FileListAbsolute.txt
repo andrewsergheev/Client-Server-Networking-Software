@@ -1,0 +1,30 @@
+G:\UniYear2\Networking\ACW\location\location\bin\Debug\location.exe.config
+G:\UniYear2\Networking\ACW\location\location\bin\Debug\location.exe
+G:\UniYear2\Networking\ACW\location\location\bin\Debug\location.pdb
+G:\UniYear2\Networking\ACW\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+G:\UniYear2\Networking\ACW\location\location\obj\Debug\location.exe
+G:\UniYear2\Networking\ACW\location\location\obj\Debug\location.pdb
+H:\UniYear2\Networking\ACW\location\location\bin\Debug\location.exe.config
+H:\UniYear2\Networking\ACW\location\location\bin\Debug\location.exe
+H:\UniYear2\Networking\ACW\location\location\bin\Debug\location.pdb
+H:\UniYear2\Networking\ACW\location\location\obj\Debug\location.csprojAssemblyReference.cache
+H:\UniYear2\Networking\ACW\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+H:\UniYear2\Networking\ACW\location\location\obj\Debug\location.exe
+H:\UniYear2\Networking\ACW\location\location\obj\Debug\location.pdb
+G:\UniYear2\Networking\ACW\location\location\obj\Debug\location.csprojAssemblyReference.cache
+G:\UniYear2\Networking\ACW\location\location\obj\Debug\location.LocationForm.resources
+G:\UniYear2\Networking\ACW\location\location\obj\Debug\location.csproj.GenerateResource.cache
+G:\UniYear2\Networking\ACW\location\location\obj\Debug\location.Properties.Resources.resources
+H:\UniYear2\Networking\ACW\location\location\obj\Debug\location.LocationForm.resources
+H:\UniYear2\Networking\ACW\location\location\obj\Debug\location.Properties.Resources.resources
+H:\UniYear2\Networking\ACW\location\location\obj\Debug\location.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\bin\Debug\location.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\bin\Debug\location.exe
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\bin\Debug\location.pdb
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\obj\Debug\location.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\obj\Debug\location.LocationForm.resources
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\obj\Debug\location.Properties.Resources.resources
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\obj\Debug\location.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\obj\Debug\location.exe
+C:\Users\andre\OneDrive\Рабочий стол\ACW\location\location\obj\Debug\location.pdb

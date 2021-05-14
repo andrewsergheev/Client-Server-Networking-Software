@@ -1,0 +1,49 @@
+28/02/2020 18:53:15.20 All tests of location completed: 14 passed, 5 advisory, 1 failed (of 111 total). 
+02/03/2020 20:20:17.97 All tests of location completed: 16 passed, 3 advisory, 1 failed (of 111 total). 
+02/03/2020 20:54:30.51 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+03/03/2020 13:09:52.20 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+03/03/2020 13:19:42.67 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+03/03/2020 13:22:30.60 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 13:24:02.43 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 13:34:53.83 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 13:38:15.76 All tests of location completed: 17 passed, 3 advisory, 0 failed (of 111 total). 
+03/03/2020 13:39:30.94 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 13:40:58.82 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 13:47:24.15 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 13:52:35.26 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 13:56:02.96 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 13:58:22.96 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 14:01:16.99 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 14:16:59.35 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 15:22:32.21 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 15:28:06.00 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+03/03/2020 15:30:12.83 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+03/03/2020 19:06:55.95 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+03/03/2020 19:23:16.78 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 11:16:46.26 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 11:30:24.36 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 11:54:36.92 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 12:04:01.19 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 12:06:34.95 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 12:08:38.10 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 12:14:07.58 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 12:18:55.75 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 12:27:46.29 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+04/03/2020 12:37:37.11 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for ANDREI SIRGHI (580275) at 04/03/2020 12:37:40.80 on FEN-052-002 
+05/03/2020  9:40:17.73 All tests of location completed: 20 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for ANDREI SIRGHI (580275) at 05/03/2020  9:40:21.38 on FEN-052-012 
+05/03/2020  9:53:47.25 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for ANDREI SIRGHI (580275) at 05/03/2020  9:53:51.37 on FEN-052-012 
+05/03/2020 10:08:36.18 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for ANDREI SIRGHI (580275) at 05/03/2020 10:08:37.94 on FEN-052-012 
+05/03/2020 10:45:33.17 All tests of location completed: 20 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for ANDREI SIRGHI (580275) at 05/03/2020 10:45:36.11 on FEN-052-012 
+13/03/2020 12:16:19.63 All tests of location completed: 20 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for ANDREI SIRGHI (580275) at 13/03/2020 12:16:20.49 on RB-203A-27 
+13/03/2020 12:17:33.40 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+13/03/2020 12:20:31.18 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+13/03/2020 12:23:13.01 All tests of location completed: 20 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for ANDREI SIRGHI (580275) at 13/03/2020 12:23:13.92 on RB-203A-27 
+13/03/2020 12:30:44.24 All tests of location completed: 109 passed, 0 advisory, 0 failed (of 111 total). 
+Lab3Test can be signed off for ANDREI SIRGHI (580275) at 13/03/2020 12:30:44.98 on RB-203A-27 
